@@ -3,9 +3,9 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="33.3%">1. 基础配置 (Basic)</th>
-      <th width="33.3%">2. 环境变量 (Env)</th>
-      <th width="33.3%">3. 存储配置 (Storage)</th>
+      <th width="33.3%">1. 基础配置 </th>
+      <th width="33.3%">2. 环境变量 </th>
+      <th width="33.3%">3. 存储配置</th>
     </tr>
   </thead>
   <tbody>
@@ -22,9 +22,9 @@
         <code>UMASK=022</code>
       </td>
       <td>
-        <b>Type:</b> <code>EmptyDir</code><br>
         <b>Path:</b> <code>/opt/openlist/data</code><br>
-        <b>Size:</b> <code>1Gi</code>
+        
+        <b>Size:</b> <code>1G</code>
       </td>
     </tr>
   </tbody>
