@@ -1,7 +1,8 @@
 # OpenList v4.1.0 部署指南
 
-适用于Claw Cloud Run 
+适用于 Claw Cloud Run
 
+## 基础配置
 
 | 字段 | 值 |
 |:---|:---|
@@ -13,10 +14,10 @@
 ## 环境变量
 
 | 变量名 | 值 |
-|:---|:---|:---|
-| PUID | `0` | 
-| PGID | `0` | 
-| UMASK | `022` | 
+|:---|:---|
+| PUID | `0` |
+| PGID | `0` |
+| UMASK | `022` |
 
 ## 存储配置
 
@@ -25,4 +26,3 @@
 | Type | `EmptyDir` |
 | Mount Path | `/opt/openlist/data` |
 | Size | `1G` |
-
