@@ -1,6 +1,6 @@
 # OpenList v4.1.0 部署指南
 
-> **爪哇云：[ap-northeast-1.run.claw.cloud](https://ap-northeast-1.run.claw.cloud/signin)**
+> **爪哇云：[ap-northeast-1.run.claw.cloud]([https://ap-northeast-1.run.claw.cloud/signin](https://ap-southeast-1.run.claw.cloud/))**
 
 <table width="100%">
   <thead>
