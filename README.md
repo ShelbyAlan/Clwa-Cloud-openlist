@@ -1,11 +1,13 @@
 # OpenList v4.1.0 部署指南
 
+> **爪哇云：[claw.cloud](https://claw.cloud)**
+
 <table width="100%">
   <thead>
     <tr>
-      <th width="33.3%">1. 基础配置</th>
-      <th width="33.3%">2. 环境变量</th>
-      <th width="33.3%">3. 存储配置</th>
+      <th width="33.3%">基础配置</th>
+      <th width="33.3%">环境变量</th>
+      <th width="33.3%">存储配置</th>
     </tr>
   </thead>
   <tbody>
@@ -32,5 +34,3 @@
     </tr>
   </tbody>
 </table>
-
-> 🔗 **快速访问：** [前往 Claw Cloud 控制台](https://claw.cloud)
