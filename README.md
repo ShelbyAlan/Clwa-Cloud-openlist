@@ -1,14 +1,7 @@
 # OpenList v4.1.0 部署指南
 
 适用于Claw Cloud Run 
-## 镜像信息
 
-| 项目 | 值 |
-|:---|:---|
-| 镜像名称 | `openlistteam/openlist:v4.1.0` |
-
-
-## 基础配置
 
 | 字段 | 值 |
 |:---|:---|
@@ -19,7 +12,7 @@
 
 ## 环境变量
 
-| 变量名 | 值 | 说明 |
+| 变量名 | 值 |
 |:---|:---|:---|
 | PUID | `0` | 
 | PGID | `0` | 
@@ -31,5 +24,5 @@
 |:---|:---|
 | Type | `EmptyDir` |
 | Mount Path | `/opt/openlist/data` |
-| Size | `1Gi` |
+| Size | `1G` |
 
