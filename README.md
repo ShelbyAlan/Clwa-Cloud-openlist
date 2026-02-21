@@ -3,9 +3,9 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="33.3%">1. 基础配置</th>
-      <th width="33.3%">2. 环境变量</th>
-      <th width="33.3%">3. 存储配置</th>
+      <th width="33.3%">基础配置</th>
+      <th width="33.3%">环境变量</th>
+      <th width="33.3%">存储配置</th>
     </tr>
   </thead>
   <tbody>
