@@ -18,7 +18,7 @@
         <b>端口</b><br>
         <code>5244</code><br><br>
         <b>CPU / 内存</b><br>
-        <code>0.5 Core</code> / <code>512 Mi</code>
+        <code>0.5</code> / <code>512M </code>
       </td>
       <td>
         <code>PUID=0</code><br>
