@@ -1,4 +1,4 @@
-# OpenList v4.1.0 部署指南
+# OpenList v4.0.0 部署指南
 
 > **爪哇云：[ap-southeast-1.run.claw.cloud](https://ap-southeast-1.run.claw.cloud/)**
 
@@ -14,7 +14,7 @@
     <tr valign="top">
       <td>
         <b>镜像名称</b><br>
-        <code>openlistteam/openlist:v4.1.0</code><br><br>
+        <code>openlistteam/openlist:v4.0.0</code><br><br>
         <b>端口</b><br>
         <code>5244</code><br><br>
         <b>CPU / 内存</b><br>
